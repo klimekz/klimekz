@@ -14,5 +14,5 @@ View more of my sample work on GitHub [Gists](https://gists.github.com/klimekz),
 
 
 [![Hosted project](scico-32x32.png)](https://statcountdown.com)
-[![Hosted project](p-32x32.png)](https://post-notes.vercel.app)
+[![Hosted project](p32x32.png)](https://post-notes.vercel.app)
 
