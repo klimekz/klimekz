@@ -3,7 +3,7 @@
 I'm [Zack](https://www.linkedin.com/in/zackklimek), a recent graduate of the [GVSU School of Computing's](https://www.gvsu.edu/cis) Computer Science program.
 
 Experience with:
--  Vue.js
+-  Vue.js/Nuxt
 -  JavaScript/TypeScript
 -  Python3
 -  C++
