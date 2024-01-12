@@ -3,13 +3,16 @@
 I'm [Zack](https://www.linkedin.com/in/zackklimek), a recent graduate of the [GVSU School of Computing's](https://www.gvsu.edu/cis) Computer Science program.
 
 Experience with:
--  Vue.js/Nuxt
 -  JavaScript/TypeScript
+  -  Vue.js/Nuxt
+  -  React.js
 -  Python3
 -  C++
--  React.js
 -  Java
+
+Familiarity with:
 -  Rust
+-  Swift
 
 View more of my sample work on GitHub [Gists](https://gists.github.com/klimekz), please inquire about my other active projects.
 
