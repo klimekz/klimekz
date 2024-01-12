@@ -18,11 +18,7 @@ Familiarity with:
 
 View more of my sample work on GitHub [Gists](https://gists.github.com/klimekz), please inquire about my other active projects.
 
-
-Hosted work:
-<br>
-[![Hosted project: statcountdown](scico-32x32.png)](https://statcountdown.com)
-[![Hosted project: post-notes](p32x32.png)](https://post-notes.vercel.app)
+[Personal site](https://zackklimek.vercel.app)
 
 
 
