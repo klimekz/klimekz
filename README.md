@@ -14,6 +14,7 @@ Familiarity with:
 -  Rust
 -  Swift
 
+<br>
 
 View more of my sample work on GitHub [Gists](https://gists.github.com/klimekz), please inquire about my other active projects.
 
