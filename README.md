@@ -10,7 +10,7 @@ Experience with:
 -  C++
 -  Java
 
-Familiarity with:
+Learning:
 -  Rust
 -  Swift
 
