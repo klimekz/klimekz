@@ -4,8 +4,8 @@ I'm [Zack](https://www.linkedin.com/in/zackklimek), a recent graduate of the [GV
 
 Experience with:
 -  JavaScript/TypeScript
-  -  Vue.js/Nuxt
-  -  React.js
+--  Vue.js/Nuxt
+--  React.js
 -  Python3
 -  C++
 -  Java
