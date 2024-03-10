@@ -10,9 +10,6 @@ Experience with:
 -  C++
 -  Java
 
-Learning:
--  Rust
--  Swift
 
 <br>
 
